@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devon\\CSE310\\Minesweeper\\Minesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\Devon\\CSE310\\Tic-tac-toe\\Minesweeper\\Minesweeper.csproj",
       "projectName": "Minesweeper",
-      "projectPath": "C:\\Users\\Devon\\CSE310\\Minesweeper\\Minesweeper.csproj",
+      "projectPath": "C:\\Users\\Devon\\CSE310\\Tic-tac-toe\\Minesweeper\\Minesweeper.csproj",
       "packagesPath": "C:\\Users\\Devon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devon\\CSE310\\Minesweeper\\obj\\",
+      "outputPath": "C:\\Users\\Devon\\CSE310\\Tic-tac-toe\\Minesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Devon\\AppData\\Roaming\\NuGet\\NuGet.Config"

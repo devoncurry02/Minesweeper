@@ -1,0 +1,15 @@
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\bin\Debug\net8.0\Minesweeper.exe
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\bin\Debug\net8.0\Minesweeper.deps.json
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\bin\Debug\net8.0\Minesweeper.runtimeconfig.json
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\bin\Debug\net8.0\Minesweeper.dll
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\bin\Debug\net8.0\Minesweeper.pdb
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.AssemblyInfo.cs
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.sourcelink.json
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.dll
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\refint\Minesweeper.dll
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.pdb
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\Minesweeper.genruntimeconfig.cache
+C:\Users\Devon\CSE310\Tic-tac-toe\Minesweeper\obj\Debug\net8.0\ref\Minesweeper.dll
